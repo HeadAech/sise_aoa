@@ -6,9 +6,12 @@
   <br>247696 Hubert Klonowski
   <br>247677 Grzegorz Janasek
 <br><br>
-## Link:
+## Linki:
 
   ### Link do skoroszytu z wizualizacją pomiarów oraz ich zestawienie:
+  [Skoroszyt](./Pliki_Pomiary/Pomiary_-_SISE_2024.xlsx)
 
-  ### Link do sprawozdania z wykonanych czynności:
+  ### Link do sprawozdania z wykonanych czynności: 
+  [Sprawozdanie](./Pliki_Pomiary/Sprawozdanie_-_SISE_2024.pdf)
+  
   
