@@ -1,0 +1,542 @@
+---- task[T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua]begin ----
+usb id [0xffff] ok
+Wait for button 
+button = 1
+input_angle = 345
+
+angle_aver = -2
+
+input_angle = 352
+
+angle_aver = -1
+
+input_angle = 341
+
+angle_aver = -2
+
+input_angle = 341
+
+angle_aver = -2
+
+input_angle = 346
+
+angle_aver = -2
+
+input_angle = 344
+
+angle_aver = -2
+
+input_angle = 346
+
+angle_aver = -2
+
+input_angle = 341
+
+angle_aver = 0
+
+input_angle = 344
+
+angle_aver = 343
+
+input_angle = 341
+
+angle_aver = 352
+
+input_angle = 341
+
+angle_aver = 341
+
+input_angle = 356
+
+angle_aver = 342
+
+input_angle = 345
+
+angle_aver = 346
+
+input_angle = 339
+
+angle_aver = 343
+
+input_angle = 341
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 340
+
+input_angle = 347
+
+angle_aver = 344
+
+input_angle = 340
+
+angle_aver = 340
+
+input_angle = 313
+
+angle_aver = 334
+
+input_angle = 344
+
+angle_aver = 355
+
+input_angle = 350
+
+angle_aver = 346
+
+input_angle = 348
+
+angle_aver = 340
+
+input_angle = 337
+
+angle_aver = 340
+
+input_angle = 345
+
+angle_aver = 340
+
+input_angle = 347
+
+angle_aver = 348
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 312
+
+input_angle = 341
+
+angle_aver = 342
+
+input_angle = 344
+
+angle_aver = 349
+
+input_angle = 344
+
+angle_aver = 349
+
+input_angle = 340
+
+angle_aver = 336
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 339
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 341
+
+input_angle = 341
+
+angle_aver = 340
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 339
+
+input_angle = 347
+
+angle_aver = 345
+
+input_angle = 344
+
+angle_aver = 339
+
+input_angle = 346
+
+angle_aver = 341
+
+input_angle = 347
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 341
+
+input_angle = 345
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 340
+
+input_angle = 344
+
+angle_aver = 347
+
+input_angle = 343
+
+angle_aver = 343
+
+input_angle = 344
+
+angle_aver = 345
+
+input_angle = 344
+
+angle_aver = 347
+
+input_angle = 341
+
+angle_aver = 343
+
+input_angle = 348
+
+angle_aver = 346
+
+input_angle = 346
+
+angle_aver = 341
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 346
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 343
+
+input_angle = 341
+
+angle_aver = 343
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 346
+
+angle_aver = 340
+
+input_angle = 344
+
+angle_aver = 347
+
+input_angle = 344
+
+angle_aver = 346
+
+input_angle = 347
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 344
+
+angle_aver = 344
+
+input_angle = 346
+
+angle_aver = 341
+
+input_angle = 346
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 347
+
+angle_aver = 344
+
+input_angle = 346
+
+angle_aver = 343
+
+input_angle = 347
+
+angle_aver = 347
+
+input_angle = 352
+
+angle_aver = 342
+
+input_angle = 346
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 339
+
+angle_aver = 345
+
+input_angle = 336
+
+angle_aver = 339
+
+input_angle = 350
+
+angle_aver = 347
+
+input_angle = 344
+
+angle_aver = 345
+
+input_angle = 348
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 351
+
+input_angle = 346
+
+angle_aver = 346
+
+input_angle = 342
+
+angle_aver = 341
+
+input_angle = 345
+
+angle_aver = 340
+
+input_angle = 344
+
+angle_aver = 335
+
+input_angle = 341
+
+angle_aver = 349
+
+input_angle = 341
+
+angle_aver = 343
+
+input_angle = 341
+
+angle_aver = 348
+
+input_angle = 350
+
+angle_aver = 341
+
+input_angle = 344
+
+angle_aver = 346
+
+input_angle = 345
+
+angle_aver = 342
+
+input_angle = 344
+
+angle_aver = 345
+
+input_angle = 341
+
+angle_aver = 344
+
+input_angle = 350
+
+angle_aver = 342
+
+input_angle = 347
+
+angle_aver = 341
+
+input_angle = 346
+
+angle_aver = 340
+
+input_angle = 349
+
+angle_aver = 350
+
+input_angle = 336
+
+angle_aver = 342
+
+input_angle = 349
+
+angle_aver = 345
+
+input_angle = 346
+
+angle_aver = 344
+
+input_angle = 346
+
+angle_aver = 340
+
+input_angle = 341
+
+angle_aver = 349
+
+input_angle = 345
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 350
+
+input_angle = 346
+
+angle_aver = 335
+
+input_angle = 344
+
+angle_aver = 348
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 341
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 340
+
+input_angle = 345
+
+angle_aver = 345
+
+input_angle = 341
+
+angle_aver = 340
+
+input_angle = 342
+
+angle_aver = 343
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 346
+
+angle_aver = 344
+
+input_angle = 344
+
+angle_aver = 341
+
+input_angle = 341
+
+angle_aver = 341
+
+input_angle = 356
+
+angle_aver = 342
+
+input_angle = 336
+
+angle_aver = 344
+
+input_angle = 347
+
+angle_aver = 341
+
+input_angle = 345
+
+angle_aver = 342
+
+input_angle = 346
+
+angle_aver = 341
+
+input_angle = 346
+
+angle_aver = 346
+
+input_angle = 341
+
+angle_aver = 344
+
+input_angle = 341
+
+angle_aver = 338
+
+input_angle = 341
+
+angle_aver = 356
+
+input_angle = 341
+
+angle_aver = 335
+
+input_angle = 333
+
+angle_aver = 345
+
+input_angle = 346
+
+angle_aver = 345
+
+input_angle = 341
+
+angle_aver = 345
+
+input_angle = 344
+
+angle_aver = 346
+
+input_angle = 339
+
+angle_aver = 340
+
+input_angle = 348
+
+angle_aver = 342
+
+input_angle = 348
+
+angle_aver = 342
+
+input_angle = 348
+
+angle_aver = 343
+
+T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua:651: ####  SYSTEM: [script stop at line 841] ####
+

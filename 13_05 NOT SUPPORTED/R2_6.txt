@@ -1,0 +1,438 @@
+---- task[T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua]begin ----
+usb id [0xffff] ok
+Wait for button 
+button = 1
+input_angle = 149
+
+angle_aver = 21
+
+input_angle = 65
+
+angle_aver = 9
+
+input_angle = 77
+
+angle_aver = 11
+
+input_angle = 303
+
+angle_aver = -8
+
+input_angle = 269
+
+angle_aver = -13
+
+input_angle = 258
+
+angle_aver = -14
+
+input_angle = 252
+
+angle_aver = -15
+
+input_angle = 341
+
+angle_aver = -24
+
+input_angle = 236
+
+angle_aver = 122
+
+input_angle = 71
+
+angle_aver = 12
+
+input_angle = 305
+
+angle_aver = 25
+
+input_angle = 229
+
+angle_aver = 245
+
+input_angle = 336
+
+angle_aver = 228
+
+input_angle = 60
+
+angle_aver = 230
+
+input_angle = 202
+
+angle_aver = 232
+
+input_angle = 44
+
+angle_aver = 313
+
+input_angle = 341
+
+angle_aver = 223
+
+input_angle = 333
+
+angle_aver = 75
+
+input_angle = 104
+
+angle_aver = 338
+
+input_angle = 301
+
+angle_aver = 224
+
+input_angle = 57
+
+angle_aver = 335
+
+input_angle = 192
+
+angle_aver = 58
+
+input_angle = 192
+
+angle_aver = 223
+
+input_angle = 333
+
+angle_aver = 94
+
+input_angle = 207
+
+angle_aver = 374
+
+input_angle = 336
+
+angle_aver = 366
+
+input_angle = 202
+
+angle_aver = 141
+
+input_angle = 192
+
+angle_aver = 320
+
+input_angle = 192
+
+angle_aver = 57
+
+input_angle = 47
+
+angle_aver = 171
+
+input_angle = 192
+
+angle_aver = 171
+
+input_angle = 333
+
+angle_aver = 351
+
+input_angle = 44
+
+angle_aver = 216
+
+input_angle = 61
+
+angle_aver = 367
+
+input_angle = 53
+
+angle_aver = 233
+
+input_angle = 91
+
+angle_aver = 229
+
+input_angle = 78
+
+angle_aver = 247
+
+input_angle = 63
+
+angle_aver = 80
+
+input_angle = 48
+
+angle_aver = 202
+
+input_angle = 60
+
+angle_aver = 335
+
+input_angle = 347
+
+angle_aver = 33
+
+input_angle = 282
+
+angle_aver = 42
+
+input_angle = 74
+
+angle_aver = 50
+
+input_angle = 53
+
+angle_aver = 87
+
+input_angle = 88
+
+angle_aver = 81
+
+input_angle = 179
+
+angle_aver = 81
+
+input_angle = 73
+
+angle_aver = 49
+
+input_angle = 75
+
+angle_aver = 72
+
+input_angle = 338
+
+angle_aver = 355
+
+input_angle = 49
+
+angle_aver = 278
+
+input_angle = 47
+
+angle_aver = 73
+
+input_angle = 326
+
+angle_aver = 35
+
+input_angle = 339
+
+angle_aver = 59
+
+input_angle = 336
+
+angle_aver = 165
+
+input_angle = 333
+
+angle_aver = 58
+
+input_angle = 336
+
+angle_aver = 74
+
+input_angle = 336
+
+angle_aver = 327
+
+input_angle = 336
+
+angle_aver = 38
+
+input_angle = 334
+
+angle_aver = 48
+
+input_angle = 331
+
+angle_aver = 324
+
+input_angle = 336
+
+angle_aver = 339
+
+input_angle = 67
+
+angle_aver = 349
+
+input_angle = 67
+
+angle_aver = 346
+
+input_angle = 192
+
+angle_aver = 366
+
+input_angle = 85
+
+angle_aver = 351
+
+input_angle = 324
+
+angle_aver = 334
+
+input_angle = 220
+
+angle_aver = 318
+
+input_angle = 202
+
+angle_aver = 311
+
+input_angle = 194
+
+angle_aver = 302
+
+input_angle = 210
+
+angle_aver = 36
+
+input_angle = 206
+
+angle_aver = 17
+
+input_angle = 197
+
+angle_aver = 156
+
+input_angle = 202
+
+angle_aver = 67
+
+input_angle = 164
+
+angle_aver = 316
+
+input_angle = 183
+
+angle_aver = 217
+
+input_angle = 74
+
+angle_aver = 184
+
+input_angle = 254
+
+angle_aver = 200
+
+input_angle = 57
+
+angle_aver = 240
+
+input_angle = 71
+
+angle_aver = 239
+
+input_angle = 192
+
+angle_aver = 247
+
+input_angle = 56
+
+angle_aver = 238
+
+input_angle = 61
+
+angle_aver = 198
+
+input_angle = 285
+
+angle_aver = 213
+
+input_angle = 198
+
+angle_aver = 66
+
+input_angle = 192
+
+angle_aver = 221
+
+input_angle = 195
+
+angle_aver = 23
+
+input_angle = 211
+
+angle_aver = 22
+
+input_angle = 185
+
+angle_aver = 159
+
+input_angle = 45
+
+angle_aver = 2
+
+input_angle = 207
+
+angle_aver = 49
+
+input_angle = 185
+
+angle_aver = 283
+
+input_angle = 61
+
+angle_aver = 179
+
+input_angle = 172
+
+angle_aver = 188
+
+input_angle = 61
+
+angle_aver = 173
+
+input_angle = 346
+
+angle_aver = 182
+
+input_angle = 89
+
+angle_aver = 191
+
+input_angle = 62
+
+angle_aver = 24
+
+input_angle = 30
+
+angle_aver = 184
+
+read result over time
+read result over time
+input_angle = 210
+
+angle_aver = 206
+
+input_angle = 192
+
+angle_aver = 63
+
+input_angle = 109
+
+angle_aver = 178
+
+input_angle = 339
+
+angle_aver = 60
+
+input_angle = 104
+
+angle_aver = 348
+
+input_angle = 33
+
+angle_aver = 84
+
+input_angle = 46
+
+angle_aver = 64
+
+input_angle = 189
+
+angle_aver = 27
+
+input_angle = 241
+
+angle_aver = 217
+
+input_angle = 269
+
+angle_aver = 214
+

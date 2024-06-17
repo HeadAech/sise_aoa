@@ -1,0 +1,1000 @@
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 183
+
+input_angle = 184
+
+angle_aver = 187
+
+input_angle = 184
+
+angle_aver = 188
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 193
+
+angle_aver = 185
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 199
+
+angle_aver = 186
+
+input_angle = 193
+
+angle_aver = 184
+
+input_angle = 196
+
+angle_aver = 189
+
+input_angle = 196
+
+angle_aver = 185
+
+input_angle = 196
+
+angle_aver = 189
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 187
+
+input_angle = 193
+
+angle_aver = 199
+
+input_angle = 193
+
+angle_aver = 192
+
+input_angle = 194
+
+angle_aver = 195
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 196
+
+input_angle = 188
+
+angle_aver = 192
+
+input_angle = 188
+
+angle_aver = 192
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 192
+
+input_angle = 188
+
+angle_aver = 192
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 187
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 187
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 183
+
+angle_aver = 187
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 199
+
+angle_aver = 189
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 181
+
+angle_aver = 187
+
+input_angle = 193
+
+angle_aver = 189
+
+input_angle = 188
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 184
+
+angle_aver = 185
+
+input_angle = 188
+
+angle_aver = 199
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 189
+
+input_angle = 188
+
+angle_aver = 180
+
+input_angle = 188
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 207
+
+angle_aver = 190
+
+input_angle = 191
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 194
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 185
+
+input_angle = 196
+
+angle_aver = 207
+
+input_angle = 188
+
+angle_aver = 190
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 194
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 187
+
+input_angle = 193
+
+angle_aver = 196
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 196
+
+angle_aver = 193
+
+input_angle = 196
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 196
+
+angle_aver = 193
+
+input_angle = 196
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 195
+
+input_angle = 194
+
+angle_aver = 196
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 195
+
+input_angle = 194
+
+angle_aver = 196
+
+input_angle = 196
+
+angle_aver = 194
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 196
+
+angle_aver = 194
+
+input_angle = 196
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 194
+
+input_angle = 181
+
+angle_aver = 191
+
+input_angle = 181
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 191
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 195
+
+input_angle = 199
+
+angle_aver = 194
+
+input_angle = 199
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 195
+
+input_angle = 188
+
+angle_aver = 182
+
+input_angle = 181
+
+angle_aver = 180
+
+input_angle = 44
+
+angle_aver = 167
+
+input_angle = 199
+
+angle_aver = 189
+
+input_angle = 185
+
+angle_aver = 186
+
+input_angle = 188
+
+angle_aver = 197
+
+input_angle = 188
+
+angle_aver = 199
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 189
+
+input_angle = 184
+
+angle_aver = 201
+
+input_angle = 184
+
+angle_aver = 41
+
+input_angle = 188
+
+angle_aver = 199
+
+input_angle = 191
+
+angle_aver = 185
+
+input_angle = 184
+
+angle_aver = 187
+
+input_angle = 184
+
+angle_aver = 186
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 183
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 187
+
+input_angle = 184
+
+angle_aver = 191
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 186
+
+angle_aver = 188
+
+input_angle = 54
+
+angle_aver = 163
+
+input_angle = 51
+
+angle_aver = 169
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 183
+
+angle_aver = 183
+
+input_angle = 183
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 186
+
+angle_aver = 188
+
+input_angle = 183
+
+angle_aver = 204
+
+input_angle = 183
+
+angle_aver = 72
+
+input_angle = 186
+
+angle_aver = 50
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 181
+
+angle_aver = 182
+
+input_angle = 184
+
+angle_aver = 182
+
+input_angle = 184
+
+angle_aver = 187
+
+input_angle = 184
+
+angle_aver = 186
+
+input_angle = 184
+
+angle_aver = 183
+
+input_angle = 181
+
+angle_aver = 182
+
+input_angle = 184
+
+angle_aver = 185
+
+input_angle = 184
+
+angle_aver = 188
+
+input_angle = 183
+
+angle_aver = 180
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 177
+
+angle_aver = 183
+
+input_angle = 356
+
+angle_aver = 209
+
+input_angle = 184
+
+angle_aver = 181
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 181
+
+angle_aver = 183
+
+input_angle = 184
+
+angle_aver = 182
+
+input_angle = 181
+
+angle_aver = 187
+
+input_angle = 188
+
+angle_aver = 185
+
+input_angle = 188
+
+angle_aver = 153
+
+input_angle = 188
+
+angle_aver = 356
+
+input_angle = 188
+
+angle_aver = 184
+
+input_angle = 184
+
+angle_aver = 184
+
+input_angle = 194
+
+angle_aver = 182
+
+input_angle = 194
+
+angle_aver = 185
+
+input_angle = 193
+
+angle_aver = 181
+
+input_angle = 199
+
+angle_aver = 189
+
+input_angle = 199
+
+angle_aver = 189
+
+input_angle = 199
+
+angle_aver = 189
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 184
+
+input_angle = 199
+
+angle_aver = 194
+
+input_angle = 199
+
+angle_aver = 194
+
+input_angle = 196
+
+angle_aver = 192
+
+input_angle = 193
+
+angle_aver = 198
+
+input_angle = 188
+
+angle_aver = 197
+
+input_angle = 188
+
+angle_aver = 199
+
+input_angle = 193
+
+angle_aver = 187
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 194
+
+angle_aver = 198
+
+input_angle = 188
+
+angle_aver = 197
+
+input_angle = 184
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 184
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 183
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 187
+
+input_angle = 188
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 186
+
+angle_aver = 183
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 193
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 194
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 188
+
+angle_aver = 185
+
+input_angle = 194
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 193
+
+input_angle = 193
+
+angle_aver = 193
+
+input_angle = 188
+
+angle_aver = 187
+
+input_angle = 193
+
+angle_aver = 194
+
+input_angle = 188
+
+angle_aver = 188
+
+input_angle = 196
+
+angle_aver = 189
+
+input_angle = 191
+
+angle_aver = 187
+
+input_angle = 193
+
+angle_aver = 194
+
+input_angle = 194
+
+angle_aver = 188
+
+read result over time
+input_angle = 184
+
+angle_aver = 192
+
+input_angle = 5
+
+angle_aver = 161
+
+input_angle = 51
+
+angle_aver = 173
+
+input_angle = 5
+
+angle_aver = 160
+
+input_angle = 188
+
+angle_aver = 144
+
+input_angle = 188
+
+angle_aver = 138
+
+input_angle = 188
+
+angle_aver = 140
+
+input_angle = 188
+
+angle_aver = 143
+
+input_angle = 184
+
+angle_aver = 158
+
+input_angle = 356
+
+angle_aver = -2
+
+input_angle = 188
+
+angle_aver = 25
+
+T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua:649: ####  SYSTEM: [script stop at line 783] ####
+

@@ -1,0 +1,1005 @@
+{\rtf1\ansi\ansicpg1250\deff0\deflang1045{\fonttbl{\f0\fnil\fcharset238 Tahoma;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs16 angle_aver = 196\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 189\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 180\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 194\par
+\par
+input_angle = 189\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 190\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 201\par
+\par
+angle_aver = 192\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 192\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 192\par
+\par
+input_angle = 189\par
+\par
+angle_aver = 192\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 190\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 190\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 200\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 190\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 190\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 183\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 180\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+\cf0 input_angle = 188\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 180\par
+\par
+input_angle = 186\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 186\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 180\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 180\par
+\par
+input_angle = 175\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 175\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 191\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 182\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 193\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 186\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 191\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 193\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 181\par
+\par
+input_angle = 183\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 189\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 185\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 182\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 189\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 187\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 41\par
+\par
+angle_aver = 167\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 196\par
+\par
+angle_aver = 186\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 184\par
+\par
+input_angle = 188\par
+\par
+angle_aver = 188\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 183\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 208\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 40\par
+\par
+input_angle = 181\par
+\par
+angle_aver = 185\par
+\par
+input_angle = 184\par
+\par
+angle_aver = 195\par
+\par
+T:\\\\RF_AOA_Test\\\\AoA_Sniffer_draw_by_sws_v1.2.lua:519: ####  SYSTEM: [script stop at line 374] ####\par
+\par
+\par
+}
+ 

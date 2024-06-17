@@ -1,0 +1,514 @@
+---- task[T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua]begin ----
+usb id [0xffff] ok
+Wait for button 
+button = 1
+read result over time
+input_angle = 54
+
+angle_aver = 7
+
+input_angle = 56
+
+angle_aver = 8
+
+input_angle = 54
+
+angle_aver = 7
+
+input_angle = 43
+
+angle_aver = 6
+
+input_angle = 56
+
+angle_aver = 8
+
+input_angle = 56
+
+angle_aver = 8
+
+input_angle = 47
+
+angle_aver = 6
+
+input_angle = 47
+
+angle_aver = -1
+
+input_angle = 58
+
+angle_aver = 54
+
+input_angle = 61
+
+angle_aver = 57
+
+input_angle = 61
+
+angle_aver = 56
+
+input_angle = 53
+
+angle_aver = 42
+
+input_angle = 51
+
+angle_aver = 55
+
+input_angle = 54
+
+angle_aver = 57
+
+input_angle = 56
+
+angle_aver = 48
+
+input_angle = 56
+
+angle_aver = 46
+
+input_angle = 54
+
+angle_aver = 57
+
+input_angle = 56
+
+angle_aver = 60
+
+input_angle = 54
+
+angle_aver = 61
+
+input_angle = 47
+
+angle_aver = 52
+
+input_angle = 54
+
+angle_aver = 51
+
+input_angle = 45
+
+angle_aver = 52
+
+input_angle = 40
+
+angle_aver = 53
+
+input_angle = 38
+
+angle_aver = 53
+
+input_angle = 45
+
+angle_aver = 52
+
+input_angle = 47
+
+angle_aver = 55
+
+input_angle = 46
+
+angle_aver = 53
+
+input_angle = 47
+
+angle_aver = 46
+
+input_angle = 34
+
+angle_aver = 52
+
+input_angle = 40
+
+angle_aver = 45
+
+input_angle = 54
+
+angle_aver = 42
+
+input_angle = 54
+
+angle_aver = 39
+
+input_angle = 47
+
+angle_aver = 45
+
+input_angle = 51
+
+angle_aver = 47
+
+input_angle = 46
+
+angle_aver = 45
+
+input_angle = 40
+
+angle_aver = 47
+
+input_angle = 46
+
+angle_aver = 34
+
+input_angle = 48
+
+angle_aver = 39
+
+input_angle = 46
+
+angle_aver = 52
+
+input_angle = 40
+
+angle_aver = 53
+
+input_angle = 53
+
+angle_aver = 47
+
+input_angle = 41
+
+angle_aver = 50
+
+input_angle = 53
+
+angle_aver = 47
+
+input_angle = 49
+
+angle_aver = 40
+
+input_angle = 49
+
+angle_aver = 46
+
+input_angle = 46
+
+angle_aver = 48
+
+input_angle = 49
+
+angle_aver = 47
+
+input_angle = 46
+
+angle_aver = 39
+
+input_angle = 40
+
+angle_aver = 52
+
+input_angle = 49
+
+angle_aver = 40
+
+input_angle = 49
+
+angle_aver = 53
+
+input_angle = 42
+
+angle_aver = 48
+
+input_angle = 37
+
+angle_aver = 47
+
+input_angle = 37
+
+angle_aver = 44
+
+input_angle = 42
+
+angle_aver = 48
+
+input_angle = 46
+
+angle_aver = 46
+
+input_angle = 38
+
+angle_aver = 38
+
+input_angle = 31
+
+angle_aver = 46
+
+input_angle = 37
+
+angle_aver = 48
+
+input_angle = 38
+
+angle_aver = 42
+
+input_angle = 33
+
+angle_aver = 36
+
+input_angle = 33
+
+angle_aver = 35
+
+input_angle = 32
+
+angle_aver = 40
+
+input_angle = 33
+
+angle_aver = 45
+
+input_angle = 42
+
+angle_aver = 39
+
+input_angle = 32
+
+angle_aver = 30
+
+input_angle = 46
+
+angle_aver = 38
+
+input_angle = 46
+
+angle_aver = 39
+
+input_angle = 35
+
+angle_aver = 33
+
+input_angle = 30
+
+angle_aver = 32
+
+input_angle = 40
+
+angle_aver = 33
+
+input_angle = 33
+
+angle_aver = 31
+
+input_angle = 31
+
+angle_aver = 41
+
+input_angle = 33
+
+angle_aver = 30
+
+input_angle = 38
+
+angle_aver = 44
+
+input_angle = 42
+
+angle_aver = 47
+
+input_angle = 40
+
+angle_aver = 36
+
+input_angle = 24
+
+angle_aver = 27
+
+input_angle = 40
+
+angle_aver = 41
+
+input_angle = 46
+
+angle_aver = 35
+
+input_angle = 46
+
+angle_aver = 32
+
+input_angle = 40
+
+angle_aver = 33
+
+input_angle = 49
+
+angle_aver = 39
+
+input_angle = 53
+
+angle_aver = 43
+
+input_angle = 46
+
+angle_aver = 43
+
+input_angle = 46
+
+angle_aver = 24
+
+input_angle = 46
+
+angle_aver = 40
+
+input_angle = 46
+
+angle_aver = 46
+
+input_angle = 46
+
+angle_aver = 46
+
+input_angle = 46
+
+angle_aver = 39
+
+input_angle = 53
+
+angle_aver = 49
+
+input_angle = 53
+
+angle_aver = 54
+
+input_angle = 58
+
+angle_aver = 47
+
+input_angle = 59
+
+angle_aver = 47
+
+input_angle = 59
+
+angle_aver = 47
+
+input_angle = 239
+
+angle_aver = 73
+
+input_angle = 59
+
+angle_aver = 47
+
+input_angle = 58
+
+angle_aver = 46
+
+input_angle = 61
+
+angle_aver = 54
+
+input_angle = 58
+
+angle_aver = 53
+
+input_angle = 58
+
+angle_aver = 57
+
+input_angle = 49
+
+angle_aver = 57
+
+input_angle = 49
+
+angle_aver = 31
+
+input_angle = 53
+
+angle_aver = 238
+
+input_angle = 53
+
+angle_aver = 58
+
+input_angle = 49
+
+angle_aver = 56
+
+read result over time
+read result over time
+read result over time
+input_angle = 40
+
+angle_aver = 58
+
+input_angle = 46
+
+angle_aver = 56
+
+input_angle = 46
+
+angle_aver = 57
+
+input_angle = 49
+
+angle_aver = 49
+
+input_angle = 49
+
+angle_aver = 48
+
+input_angle = 46
+
+angle_aver = 52
+
+input_angle = 53
+
+angle_aver = 53
+
+input_angle = 46
+
+angle_aver = 49
+
+input_angle = 46
+
+angle_aver = 40
+
+input_angle = 46
+
+angle_aver = 46
+
+input_angle = 46
+
+angle_aver = 45
+
+input_angle = 33
+
+angle_aver = 46
+
+input_angle = 53
+
+angle_aver = 50
+
+input_angle = 53
+
+angle_aver = 46
+
+input_angle = 49
+
+angle_aver = 53
+
+input_angle = 46
+
+angle_aver = 46
+
+input_angle = 31
+
+angle_aver = 43
+
+input_angle = 31
+
+angle_aver = 43
+
+input_angle = 32
+
+angle_aver = 45
+
+input_angle = 38
+
+angle_aver = 30
+
+T:\\RF_AOA_Test\\AoA_Sniffer_draw_by_sws_v1.2.lua:650: ####  SYSTEM: [script stop at line 783] ####
+
