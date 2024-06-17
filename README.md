@@ -1,13 +1,14 @@
-Projekt: Wykorzystywanie AoA w celu podania przybliżonego położenia transmitera.
-######
-Autorzy:
-  248676 Wiktoria Biletska
-  247713 Sebastian Kuciński
-  247696 Hubert Klonowski
-  247677 Grzegorz Janasek
+# Projekt: Wykorzystywanie AoA w celu podania przybliżonego położenia transmitera.
 
-  Link do skoroszytu z wizualizacją pomiarów oraz ich zestawienie:
+## Autorzy:
+  <br>248676 Wiktoria Biletska
+  <br>247713 Sebastian Kuciński
+  <br>247696 Hubert Klonowski
+  <br>247677 Grzegorz Janasek
+<br><br>
+## Link:
 
-  
-  Link do sprawozdania z wykonanych czynności:
+  ### Link do skoroszytu z wizualizacją pomiarów oraz ich zestawienie:
+
+  ### Link do sprawozdania z wykonanych czynności:
   
