@@ -136,4 +136,8 @@ if measurement_test_mode == 0:
         plots.draw_points(x_arr, y_arr, dist_x, dist_y)
         plots.draw_linear(x_arr, y_arr, dist_x, dist_y)
 
-
+print("Standard deviation for raw values from R1: " + str(np.std(int_input_angles[0])))
+print("Standard deviation for raw values from R2: " + str(np.std(int_input_angles[1])))
+print()
+print("Standard deviation for filtered values from R1: " + str(np.std(filtered_median_moving_avg[0])))
+print("Standard deviation for filtered values from R2: " + str(np.std(filtered_median_moving_avg[1])))
