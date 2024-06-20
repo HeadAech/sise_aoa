@@ -9,9 +9,9 @@
 ## Linki:
 
   ### Link do skoroszytu z wizualizacją pomiarów oraz ich zestawienie:
-  [Skoroszyt](./Pliki_Pomiary/Pomiary_-_SISE_2024.xlsx)
+  [Skoroszyt](./Pliki_Pomiary/Pomiary%20-SISE_2024.xlsx)
 
   ### Link do sprawozdania z wykonanych czynności: 
-  [Sprawozdanie](./Pliki_Pomiary/Sprawozdanie_-_SISE_2024.pdf)
+  [Sprawozdanie](./Pliki_Pomiary/Sprawozdanie%20-%20SISE%202024.pdf)
   
   
